@@ -1,7 +1,0 @@
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.dll.config
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.dll
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\bin\Release\Ex05.CheckersLogic.pdb
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.csproj.AssemblyReference.cache
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.csproj.CoreCompileInputs.cache
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.dll
-C:\Users\shach\OneDrive\Desktop\School\Year 2\Semester B\Checkers\B22 Ex05 Shachar 324974443 Ariel 325047595\Ex05.CheckersLogic\obj\Release\Ex05.CheckersLogic.pdb
